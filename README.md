@@ -2,7 +2,7 @@
 Brief project description (TBC)
 
 ## Project Information
-**Cource Codes:** IDATA2306 (Application Development) & IDATA2301 (Web Technology)  
+**Course Codes:** IDATA2306 (Application Development) & IDATA2301 (Web Technology)  
 **Institution:** NTNU Ålesund  
 **Semester:** Spring 2026
 **Group Members:** Svein Antonsen & Andrea Sandnes  
